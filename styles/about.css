@@ -1,0 +1,31 @@
+.card *  {
+    text-align: center;
+    margin: 0.2rem;
+    
+    
+}
+#card{
+    background-color: #F2F2F2;
+    
+}
+.boardTitle{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.board{
+    padding-left: 10rem ;
+    padding-right: 10rem ;
+    background-color: #F2F2F2;
+    text-align: center;
+    
+}
+
+.row img {
+    border-radius: 50%;
+}
+.row .card {
+    border: none;
+}
+.position {
+    text-decoration: underline;
+}

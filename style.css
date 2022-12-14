@@ -1,0 +1,21 @@
+.events{
+    text-align: center;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: black;
+}
+
+
+.calendar  {
+    position: relative;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+#footer {
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+}
