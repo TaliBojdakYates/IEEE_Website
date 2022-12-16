@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 
 
-<footer class="text-center text-white " style="background-color: #f1f1f1;">
+<footer class="text-center text-white " style="background-color: #c5c5c5;">
   <div class="container pt-4">
     <!-- Facebook -->
     <section class="mb-4">
@@ -26,7 +26,7 @@
       </a>
 
       <!-- Linkedin -->
-      <a class="btn btn-link btn-lg m-1"href="#!"role="button">
+      <a class="btn btn-link btn-lg m-1"href="https://www.linkedin.com/company/ieee-iit/"role="button">
         <i class="bi bi-linkedin" style="color:#0082ca"></i>
       </a>
 

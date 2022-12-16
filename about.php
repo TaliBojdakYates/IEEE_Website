@@ -12,15 +12,36 @@
   
 <?php include('header.php'); ?>
 
-<div class="about" >
-    <h3>About Us</h3>
-    <p>We are the IEEE Student Branch of Department of Electrical and Computer Engineering at Illinois Institute
+<div class="container m-5">
+   <div class="row" style="align-items: center">
+        <div class="col-md-6">
+            <h3 class="text-center">Who are we?</h3>
+            <p>We are the IEEE Student Branch of Department of Electrical and Computer Engineering at Illinois Institute
       of Technology(Illinois Tech). IEEE represents one of the largest student organizations on campus.
       Our organization strives to further students professional and educational development through a wide array of
       opportunities
-
-    </p>
+          </p>   
+        </div>
+        <div class="col-md-6 team">
+            <img src="images/team.jpg" class="img-fluid rounded">
+        </div>
+    </div>
 </div>
+
+<hr class="redLine">
+
+
+   <div class="row mission" style="align-items: center">
+        <div class="col 6">
+            <h3 class="text-center">Mission</h3>
+            <p> As a globally recognized technical community, IEEE is constantly contributing to improving world-wide conditions. At Illinois Institute of Technology, IEEE connects with the community to foster relationships between the organization and students.
+          </p>   
+        </div>
+        <div class="col team">
+            <img src="images/ieee-logo.png" class="img-fluid">
+        </div>
+    </div>
+
 
 </div>
   <div class="board">
@@ -30,20 +51,29 @@
     <div  class="row">
        <div class="col-md-6 col-lg-3">
         <div class="card" id="card">
-          <img class="shadow p-3 " src="images/person123.png" alt="Card image cap">
+          <img class="shadow p-3 " src="images/eduardo.jpeg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title"></h5>
-            <p class="position"></p>
+            <h6 class="card-title">Eduardo Calix</h6>
+            <p class="position">President</p>
             <p></p>
           </div>
         </div>
       </div>
       <div class="col-md-6 col-lg-3">
         <div class="card" id="card" >
-          <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
+          <img class="shadow p-3 " src="images/yeshwanth.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title"></h5>
-            <p class="card-text"></p>
+            <h6 class="card-title">Yeshwanth Vemula</h6>
+            <p class="position">Vice President</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 col-lg-3">
+        <div class="card" id="card">
+          <img class="shadow p-3 " src="images/chibuzo.jpg" alt="Card image cap">
+          <div class="card-body">
+            <h6 class="card-title">Chibuzo Valentine Nwadike</h6>
+            <p class="position">Project Chair</p>
           </div>
         </div>
       </div>
@@ -51,17 +81,8 @@
         <div class="card" id="card">
           <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text"></p>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-6 col-lg-3">
-        <div class="card" id="card">
-          <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
-          <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text"></p>
+            <h6 class="card-title">Card title</h6>
+            <p class="position"></p>
           </div>
         </div>
       </div>
@@ -69,9 +90,8 @@
         <div class="card" id="card" >
           <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Tali Bojdak-Yates</h5>
+            <h6 class="card-title">Tali Bojdak-Yates</h6>
             <p class="position">Webmaster</p>
-            <p>Computer Engineer</p> 
           </div>
         </div>
       </div>
@@ -80,7 +100,7 @@
           <div></div>
           <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h6 class="card-title">Card title</h6>
             <p class="card-text"></p>
           </div>
         </div>
@@ -89,7 +109,7 @@
         <div class="card" id="card">
           <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h6 class="card-title">Card title</h6>
             <p class="card-text"></p>
           </div>
         </div>
@@ -98,7 +118,7 @@
         <div class="card" id="card">
           <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
+            <h6 class="card-title">Card title</h6>
             <p class="card-text"></p>
           </div>
         </div>
