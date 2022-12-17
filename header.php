@@ -1,8 +1,9 @@
 <link href="https://getbootstrap.com/docs/5.2/assets/css/docs.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script> 
+<link rel="stylesheet" href="style.css">
 
 <!-- Header navbar that collapses into a side bar when the screen is medium or smaller -->
-<nav class="navbar navbar-dark bg-dark navbar-expand-md">
+<nav class="navbar navbar-dark  navbar-expand-md header" >
   <div class="container-fluid">
     <img src="images/ieeelogoCircle.png" alt="" style="padding: 0.5rem">
     <h2 class="navbar-item font" style="font-size:1.5rem;  margin: 1rem; color: white" href="#">IEEE@IIT</h2>

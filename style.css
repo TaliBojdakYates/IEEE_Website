@@ -1,7 +1,20 @@
+/* -------------------Header-------------------- */
+
+.navbar{
+    background-color: #cc0000
+}
+
+/*---------------------------- Main Page ---------------------*/
+.welcome {
+    background-color:  #76777b;
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+}
 .learnMore{
     text-decoration: none;
     margin: 0.5rem !important;
-    color: rgb(41, 41, 246)
+    color: #cc0000
     
 }
 .date{
@@ -9,11 +22,8 @@
     padding:0.5rem;
     position:absolute;
     color: white;
-    background: #188ef4;
-    background: -webkit-linear-gradient(legacy-direction(to right), #188ef4 0%, #316ce8 100%);
-    background: -webkit-linear-gradient(left, #188ef4 0%, #316ce8 100%);
-    background: -o-linear-gradient(left, #188ef4 0%, #316ce8 100%);
-    background: linear-gradient(to right, #188ef4 0%, #316ce8 100%);
+    background: #cc0000;
+    background-image: linear-gradient(to right, #cc0000 , #fe6100);
     align-items: center;
     border-radius: 5%;
 }
@@ -32,30 +42,42 @@
     margin: 0;
 }
 .title{
-    color: rgb(41, 41, 246)
+    color: #fe9900
 }
-/* 
-------------------------- */
-.redLine{
-    border: 2rem solid rgb(255, 0, 0);
-    margin:0
-}
+
 
 /*--------------------- Calendar Page Style -------------*/
 
 .calendar  {
     text-align: center;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
 
+.calendarTitle{
+    background-color:  #76777b;
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
+}
 
 /* ------------------About Page Style------------- */
 
 .mission{
-    background-color: #fad1d1;
+    background-color: #444444;
+    opacity: 100%;
+    color: white;
     padding: 3rem;
+    margin: 0;
 }
+
+.redLine{
+    /* border: 2rem solid rgb(255, 0, 0); */
+    border: 2rem solid #76777b;
+    opacity: 100%;
+    margin:0
+}
+
 
 .team {
     width: 100%;
@@ -98,4 +120,10 @@
     position: relative;
     text-align: center;
     margin-top: 5rem;
+}
+.signupTitle{
+    background-color:  #76777b;
+    color: white;
+    padding: 0.5rem;
+    text-align: center;
 }

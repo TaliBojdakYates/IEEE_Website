@@ -74,6 +74,10 @@
   </div>
 </div>
 
+<div class="welcome">
+  <h1>Welcome to IEEE</h1>
+  <h4>Institute of Electrical and Electronics Engineers</h4>
+</div>
 <div class="eventPage py-5">
   <div class="container">
     <!-- Row  -->

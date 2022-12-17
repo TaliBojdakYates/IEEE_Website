@@ -31,7 +31,7 @@
 <hr class="redLine">
 
 
-   <div class="row mission" style="align-items: center">
+   <div class="row mission container-fluid" style="align-items: center">
         <div class="col 6">
             <h3 class="text-center">Mission</h3>
             <p> As a globally recognized technical community, IEEE is constantly contributing to improving world-wide conditions. At Illinois Institute of Technology, IEEE connects with the community to foster relationships between the organization and students.

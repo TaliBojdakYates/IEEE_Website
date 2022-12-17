@@ -4,10 +4,13 @@
 
 <?php include('header.php'); ?>
 
+<div class="signupTitle">
+        <h3 >Become a Member</h3>
+        <h5>Fill out the following form to be added to the emailing list</h4>
+</div>
+
 <!-- Imbeds the google form to sign up -->
 <div class="container mx-auto mb-5 signup">
-        <h3 >Become a Member</h3>
-        <h5 style="margin-bottom: 3rem">Fill out the following form to be added to the emailing list</h4>
         <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetpmySUnAWwfY34Dpdc-nhM0B8B-DXPNRjJvc220aYdaFEwg/viewform?embedded=true" width="640" height="1564" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
 <?php include('footer.php'); ?>
