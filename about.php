@@ -28,11 +28,11 @@
     </div>
 </div>
 
-<hr class="redLine">
+
 
 
    <div class="row mission container-fluid" style="align-items: center">
-        <div class="col 6">
+        <div class="col">
             <h3 class="text-center">Mission</h3>
             <p> As a globally recognized technical community, IEEE is constantly contributing to improving world-wide conditions. At Illinois Institute of Technology, IEEE connects with the community to foster relationships between the organization and students.
           </p>   
@@ -79,10 +79,10 @@
       </div>
       <div class="col-md-6 col-lg-3">
         <div class="card" id="card">
-          <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
+          <img class="shadow p-3 " src="images/sal.png" alt="Card image cap">
           <div class="card-body">
-            <h6 class="card-title">Card title</h6>
-            <p class="position"></p>
+            <h6 class="card-title">Salvador Jimenez Gomez</h6>
+            <p class="position">Social Media Manager</p>
           </div>
         </div>
       </div>

@@ -77,6 +77,7 @@
 <div class="welcome">
   <h1>Welcome to IEEE</h1>
   <h4>Institute of Electrical and Electronics Engineers</h4>
+  <a href="#contactUs" class="connect" >Connect with us</a>
 </div>
 <div class="eventPage py-5">
   <div class="container">
@@ -86,6 +87,7 @@
       <div class="col-md-8 text-center">
         <h3 class="my-3">Upcoming Events</h3>
         <h6 class="subtitle font-weight-normal">Participate in our events to gain real world experience and learn about the constantly changing field</h6>
+       
       </div>
     </div>
 
