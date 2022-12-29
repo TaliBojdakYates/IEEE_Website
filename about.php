@@ -12,14 +12,12 @@
   
 <?php include('header.php'); ?>
 
+<!-- about us section and image -->
 <div class="container m-5">
    <div class="row" style="align-items: center">
         <div class="col-md-6">
             <h3 class="text-center">Who are we?</h3>
-            <p>We are the IEEE Student Branch of Department of Electrical and Computer Engineering at Illinois Institute
-      of Technology(Illinois Tech). IEEE represents one of the largest student organizations on campus.
-      Our organization strives to further students professional and educational development through a wide array of
-      opportunities
+            <p>IEEE provides opportunities to meet and learn from fellow IEEE Student and Graduate Student Members and engage with professional IEEE members locally. Our student branch can be one of the most positive elements of your academic career, offering programs, activities, and professional networking opportunities that build critical skills outside of the classroom. IEEE has student branches at thousands of universities and colleges in hundreds of countries throughout the world.
           </p>   
         </div>
         <div class="col-md-6 team">
@@ -28,19 +26,31 @@
     </div>
 </div>
 
+<!-- mission section -->
+<div class="grid  mission">
+  <div class="g-col-6">
+  <h3 class="text-center">Mission</h3>
+            <p> IEEE serves to give students a community of peers, and a connection to faculty and industry professionals who drive innovation in countless technical fields. Student involvement in branch activities, whether special projects, social and technical meetings, outreach programs, conferences, etc. can help develop a record of accomplishment and capabilities beyond the norm.
+          </p>
+  </div>
+  <div class="g-col-6">
+  <img src="images/ieee-logo.png" class="img-fluid">
+  </div>
+</div>
+  
 
 
 
-   <div class="row mission container-fluid" style="align-items: center">
+   <!-- <div class="row mission container-fluid" style="align-items: center">
         <div class="col">
             <h3 class="text-center">Mission</h3>
-            <p> As a globally recognized technical community, IEEE is constantly contributing to improving world-wide conditions. At Illinois Institute of Technology, IEEE connects with the community to foster relationships between the organization and students.
+            <p> IEEE serves to give students a community of peers, and a connection to faculty and industry professionals who drive innovation in countless technical fields. Student involvement in branch activities, whether special projects, social and technical meetings, outreach programs, conferences, etc. can help develop a record of accomplishment and capabilities beyond the norm.
           </p>   
         </div>
         <div class="col team">
             <img src="images/ieee-logo.png" class="img-fluid">
         </div>
-    </div>
+    </div> -->
 
 
 </div>
@@ -50,15 +60,22 @@
     </h3>
     <div  class="row">
        <div class="col-md-6 col-lg-3">
+
+       <!-- The following can be copied and pasted to add more members -->
         <div class="card" id="card">
+          <!-- insert image name in the src -->
           <img class="shadow p-3 " src="images/eduardo.jpeg" alt="Card image cap">
           <div class="card-body">
+            <!-- below is the name of the person -->
             <h6 class="card-title">Eduardo Calix</h6>
+            <!-- below is their postion -->
             <p class="position">President</p>
             <p></p>
           </div>
         </div>
       </div>
+      <!-- end of copy and paste for new members -->
+
       <div class="col-md-6 col-lg-3">
         <div class="card" id="card" >
           <img class="shadow p-3 " src="images/yeshwanth.jpg" alt="Card image cap">
@@ -98,10 +115,10 @@
       <div class="col-md-6 col-lg-3">
         <div class="card" id="card">
           <div></div>
-          <img class="shadow p-3 " src="images/person.jpg" alt="Card image cap">
+          <img class="shadow p-3 " src="images/neil.png" alt="Card image cap">
           <div class="card-body">
-            <h6 class="card-title">Card title</h6>
-            <p class="card-text"></p>
+            <h6 class="card-title">Neil Dhote</h6>
+            <p class="position">Secretary</p>
           </div>
         </div>
       </div>

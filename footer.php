@@ -9,29 +9,29 @@
 
         <!-- Facebook -->
       <a class="btn btn-link  btn-lg m-1" href="#!"role="button"style="color: #3b5998;">
-        <i class="bi bi-facebook" style="color:#3b5998; font-size: 2rem"></i>
+        <i class="bi bi-facebook" style="color:#3b5998; font-size: 2.5rem"></i>
       </a>
 
          <!-- ------Discord ---------- -->
   <a class="btn btn-link btn-lg m-1"href=""role="button">
-      <i class="bi bi-discord bi-5x" style="color:#7289d9;font-size: 2rem" ></i>
+      <i class="bi bi-discord bi-5x" style="color:#7289d9;font-size: 2.5rem" ></i>
       </a>
 
       
 
       <!-- Google -->
       <a class="btn btn-link btn-lg m-1" href="mailto:ieee@iit.edu" role="button">
-        <i class="bi bi-google" style="color:#dd4b39; font-size: 2rem"></i>
+        <i class="bi bi-google" style="color:#dd4b39; font-size: 2.5rem"></i>
       </a>
 
       <!-- Instagram -->
       <a class="btn btn-link btn-lg m-1" href="#!" role="button" data-mdb-ripple-color="dark">
-        <i class="bi bi-instagram" style="color:#ac2bac; font-size: 2rem"></i>
+        <i class="bi bi-instagram" style="color:#ac2bac; font-size: 2.5rem"></i>
       </a>
 
       <!-- Linkedin -->
       <a class="btn btn-link btn-lg m-1"href="https://www.linkedin.com/company/ieee-iit/"role="button">
-        <i class="bi bi-linkedin" style="color:#0082ca;font-size: 2rem"></i>
+        <i class="bi bi-linkedin" style="color:#0082ca;font-size: 2.5rem"></i>
       </a>
 
       

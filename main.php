@@ -20,14 +20,16 @@
   <!-- Button trigger modal -->
 
 
-<!-- Learn More Modal 1 -->
+<!-- Learn More Modal 1. The following is what shows up when more information is pressed-->
 <div class="modal fade" id="modal1" tabindex="-1" >
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content">
       <div class="modal-header">
+        <!-- h1 is where the title of the event should go -->
         <h1 class="modal-title fs-5" id="exampleModalLabel">Event One</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
+      <!-- in the section modal-body below is where the description of the event should go -->
       <div class="modal-body">
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error minima magnam quod, saepe dolores corporis praesentium. Repudiandae ab modi, maiores cum, similique rem accusantium eveniet, eligendi minus perferendis magni inventore.
       </div>
@@ -92,19 +94,21 @@
     </div>
 
     <div class="row mt-4">
-      <!-- Column -->
-      <div class="col-md-4">
+      <!-- Column for event one -->
+      <div class="col">
         <div class="card border-0 mb-4 events">
           <img class="card-img-top eventImg" src="images/eventImg1.png" alt="">
+          <!-- the following div tag has the date of the event -->
           <div class="date">Oct<span class="d-block">23</span></div>
+          <!-- the h5 below is the title of the event -->
           <h5 class="font-weight-medium mt-3 title">Event One</h5>
+          <!-- the p below is the short description of the event -->
           <p class="mt-3">This is going to be a great event one</p>
           <a  class="learnMore" data-bs-toggle="modal" data-bs-target="#modal1"><i class="bi bi-info-circle"></i> Learn More</a>
-
         </div>
       </div>
-      <!-- Column -->
-      <div class="col-md-4">
+      <!-- Column for event two -->
+      <div class="col">
         <div class="card border-0 mb-4">
         <img class="card-img-top eventImg"  src="images/eventImg2.png" alt="">
           <div class="date">Oct<span class="d-block">23</span></div>
@@ -114,7 +118,7 @@
         </div>
       </div>
       <!-- Column -->
-      <div class="col-md-4">
+      <div class="col">
         <div class="card border-0 mb-4">
         <img class="card-img-top eventImg" src="images/eventImg3.png" alt="">
           <div class="date">Oct<span class="d-block">23</span></div>
